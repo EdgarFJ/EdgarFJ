@@ -8,7 +8,7 @@ Soy un apasionado de la tecnología y la innovación, con experiencia en soporte
 - 🎓 **Ingeniero en Comunicaciones y Electrónica** | Pasante a partir de enero de 2025.
 - 🌐 **Áreas de interés**: Redes, ciberseguridad, computación en la nube, bases de datos y desarrollo de software.
 - 💡 **Habilidades técnicas**:
-  - **Programación básica **: Java, Python, HTML, CSS, SQL.
+  - **Programación básica**: Java, Python, HTML, CSS, SQL.
   - **Herramientas en la nube**: AWS fundamentos.
   - **Control de versiones**: Git.
   - **Hardware y electrónica**: Configuración y parametrización de equipos GPS, MDVR y Dashcam (Streamax y Queclink).
